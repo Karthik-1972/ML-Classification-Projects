@@ -129,33 +129,15 @@ ML-Classification-Projects/
 ├── .gitignore
 ├── LICENSE
 │
-├── 1_Logistic_Regression/
-│   ├── logistic_regression.py
-│   └── Social_Network_Ads.csv
-│
-├── 2_K_Nearest_Neighbors/
-│   ├── k_nearest_neighbors.py
-│   └── Social_Network_Ads.csv
-│
-├── 3_Kernel_SVM/
-│   ├── kernel_svm.py
-│   └── Social_Network_Ads.csv
-│
-├── 4_Support_Vector_Machine/
-│   ├── support_vector_machine.py
-│   └── Social_Network_Ads.csv
-│
-├── 5_Naive_Bayes/
-│   ├── naive_bayes.py
-│   └── Social_Network_Ads.csv
-│
-├── 6_Decision_Tree_Classification/
-│   ├── Decision_Tree_Classification.py
-│   └── Social_Network_Ads.csv
-│
-└── 7_Random_Forest_Classification/
-    ├── random_forest_classification.py
+├── Dataset
     └── Social_Network_Ads.csv
+├── 1_logistic_regression.py
+├── 2_k_nearest_neighbors.py
+├── 3_kernel_svm.py
+├── 4_support_vector_machine.py
+├── 5_naive_bayes.py
+├── 6_Decision_Tree_Classification.py
+└── 7_random_forest_classification.py
 ```
 
 ## 💻 Usage
